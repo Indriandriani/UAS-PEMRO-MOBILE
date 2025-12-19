@@ -14,3 +14,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# Deskripsi Aplikasi
+
+aplikasi mobile yang dirancang untuk menjadi asisten pribadi dalam merawat tanaman hias maupun tanaman rumah tangga.
+Aplikasi ini bertujuan membantu pengguna, terutama pecinta tanaman, agar dapat memahami cara merawat tanaman dengan mudah, efisien, dan menyenangkan. Melalui Plantify, pengguna bisa mengelola koleksi tanaman mereka, mendapatkan pengingat penyiraman otomatis, dan mempelajari tips-tips ringan tentang cara menjaga tanaman tetap sehat.
+
+Aplikasi ini juga memberikan fitur komunitas, di mana pengguna bisa berbagi foto dan pengalaman tentang tanaman mereka, menciptakan ruang positif untuk belajar bersama.
